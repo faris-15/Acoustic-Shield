@@ -111,20 +111,13 @@ Sigmoid
 
 ## 👨‍💻 Engineering Team
 
-| Name | ID |
-|--------|--------|
-| Faris Mohammed AlSulami | 444005537 |
-| Hussain Mash | 444002051 |
-| Abdulrahim Alharbi | 444010032 |
+| Name |
+|--------|
+| Faris Mohammed AlSulami |
+| Hussain Mash | 
+| Abdulrahim Alharbi |
 
----
 
-## 🎓 Academic Information
-
-**Course:** CS4507 – Pattern Recognition  
-**Department:** Computer Science  
-**Institution:** Umm Al-Qura University  
-**Year:** 2026
 
 ---
 
